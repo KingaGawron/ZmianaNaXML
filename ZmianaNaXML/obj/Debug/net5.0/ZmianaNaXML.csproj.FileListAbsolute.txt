@@ -1,0 +1,16 @@
+C:\Users\kinga\source\repos\ZmianaNaXML\ZmianaNaXML\bin\Debug\net5.0\ZmianaNaXML.exe
+C:\Users\kinga\source\repos\ZmianaNaXML\ZmianaNaXML\bin\Debug\net5.0\ZmianaNaXML.deps.json
+C:\Users\kinga\source\repos\ZmianaNaXML\ZmianaNaXML\bin\Debug\net5.0\ZmianaNaXML.runtimeconfig.json
+C:\Users\kinga\source\repos\ZmianaNaXML\ZmianaNaXML\bin\Debug\net5.0\ZmianaNaXML.runtimeconfig.dev.json
+C:\Users\kinga\source\repos\ZmianaNaXML\ZmianaNaXML\bin\Debug\net5.0\ZmianaNaXML.dll
+C:\Users\kinga\source\repos\ZmianaNaXML\ZmianaNaXML\bin\Debug\net5.0\ref\ZmianaNaXML.dll
+C:\Users\kinga\source\repos\ZmianaNaXML\ZmianaNaXML\bin\Debug\net5.0\ZmianaNaXML.pdb
+C:\Users\kinga\source\repos\ZmianaNaXML\ZmianaNaXML\obj\Debug\net5.0\ZmianaNaXML.csproj.AssemblyReference.cache
+C:\Users\kinga\source\repos\ZmianaNaXML\ZmianaNaXML\obj\Debug\net5.0\ZmianaNaXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinga\source\repos\ZmianaNaXML\ZmianaNaXML\obj\Debug\net5.0\ZmianaNaXML.AssemblyInfoInputs.cache
+C:\Users\kinga\source\repos\ZmianaNaXML\ZmianaNaXML\obj\Debug\net5.0\ZmianaNaXML.AssemblyInfo.cs
+C:\Users\kinga\source\repos\ZmianaNaXML\ZmianaNaXML\obj\Debug\net5.0\ZmianaNaXML.csproj.CoreCompileInputs.cache
+C:\Users\kinga\source\repos\ZmianaNaXML\ZmianaNaXML\obj\Debug\net5.0\ZmianaNaXML.dll
+C:\Users\kinga\source\repos\ZmianaNaXML\ZmianaNaXML\obj\Debug\net5.0\ref\ZmianaNaXML.dll
+C:\Users\kinga\source\repos\ZmianaNaXML\ZmianaNaXML\obj\Debug\net5.0\ZmianaNaXML.pdb
+C:\Users\kinga\source\repos\ZmianaNaXML\ZmianaNaXML\obj\Debug\net5.0\ZmianaNaXML.genruntimeconfig.cache
